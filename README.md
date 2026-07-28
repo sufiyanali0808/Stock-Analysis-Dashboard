@@ -194,7 +194,8 @@ The dashboard enables users to:
 
 
 ```
-<img width="1281" height="683" alt="Screenshot 2026-07-28 074105" src="https://github.com/user-attachments/assets/ac6c46fc-9923-47b0-bddd-fded5427a0c0" />
+<img width="1281" height="683" alt="Screenshot 2026-07-28 074105" src="https://github.com/user-attachments/assets/64f368d8-e96a-49bb-8642-57d7ea51cbfb" />
+
 
 ```
 
